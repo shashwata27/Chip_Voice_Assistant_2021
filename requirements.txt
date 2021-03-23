@@ -1,0 +1,15 @@
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+comtypes==1.1.9
+gTTS==2.2.2
+idna==2.10
+playsound==1.2.2
+PyAudio @ file:///D:/Projects/Chip_Voice_Assistant/binaries/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pypiwin32==223
+pyttsx3==2.90
+pywin32==300
+requests==2.25.1
+six==1.15.0
+SpeechRecognition==3.8.1
+urllib3==1.26.4
